@@ -1,0 +1,19 @@
+.site-form {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.result {
+  width: 250px;
+  height: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-size: 70px;
+  color: blue;
+}
+
+.form-label {
+  font-size: 40px; 
+  color: brown;
+}
